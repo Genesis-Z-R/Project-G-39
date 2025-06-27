@@ -1,10 +1,10 @@
 # Project-G-39
 Mobile App Dev 
-#BISA
+# Bisa!
 
 ## Overview
 
-QuoraClone is a group project aimed at replicating the core features of Quora. It allows users to:
+Bisa! is a group project aimed at replicating the core features of Quora. It allows users to:
 
 - Post and answer questions
 - Upvote helpful content
@@ -30,7 +30,7 @@ The project is built as part of our Computer Science coursework to practice full
 
 - **Frontend:** React
 - **Backend:** Springboot
-- **Database:** 
+- **Database:** MySQL
 - **Authentication:** 
 - **Other Tools:** Figma for UI, Git & GitHub for version control
 
